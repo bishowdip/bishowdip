@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a0533,80:2d1b69,100:0d0d2b&height=280&section=header&text=Bishowdip%20Thapa&fontSize=55&fontColor=e2d9f3&fontAlignY=38&desc=Robotics%20Engineer%20→%20AI%20Developer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descSize=18&descAlignY=58&descColor=9d7fe3&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a0533,80:2d1b69,100:0d0d2b&height=280&section=header&text=Bishowdip%20Thapa&fontSize=55&fontColor=e2d9f3&fontAlignY=38&desc=Robotics%20dropout%20→%20AI%20developer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descSize=18&descAlignY=58&descColor=9d7fe3&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1500&color=9D7FE3&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Studied+robotics+in+Russia.+Now+building+AI+for+Nepal.;From+learning+how+machines+move+%E2%86%92+how+they+think.;%22Learning+to+make+something+out+from+0+and+1%22;Bauman+MSTU+%E2%86%92+Coventry+%7C+Moscow+%E2%86%92+Kathmandu;Edge+AI+%7C+Explainable+ML+%7C+Building+for+the+real+world." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1500&color=9D7FE3&center=true&vCenter=true&width=720&lines=Spent+4+years+in+Moscow+learning+how+machines+think.;Came+home.+Started+over.+No+regrets.;Now+building+AI+that+explains+itself+%F0%9F%A7%A0;%22Learning+to+make+something+out+from+0+and+1%22;Nepal+%E2%86%92+Russia+%E2%86%92+Nepal+%E2%86%92+wherever+this+goes+next." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bishodip123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/bishowdip/Bishowdipthapa">
     <img src="https://img.shields.io/badge/Portfolio-9d7fe3?style=for-the-badge&logo=githubpages&logoColor=white" />
@@ -21,89 +21,103 @@
 
 ---
 
-## The story, honestly told
+## The real story. All of it.
 
-Most developers pick a lane early and stay in it. I didn't.
+In 2019, I left Nepal and flew to Moscow to study at **Bauman Moscow State Technical University** — one of Russia's most demanding engineering schools. Mechatronics, Robotics, Automation. I was 18 or 19, in a foreign country, learning a foreign language, doing foreign-level calculus.
 
-I spent four years in **Moscow** — not the tourist parts — studying at **Bauman Moscow State Technical University**, one of Russia's most rigorous engineering universities. I was learning how robots move, how sensors think, how hardware speaks. I was there through COVID lockdowns as a foreign student from Nepal. I learned Russian. I survived Russian winters and Russian calculus. I came out the other side with a degree in **Mechatronics, Robotics and Automation Engineering**.
+Then COVID hit. I stayed. Foreign student, locked down, still showing up.
 
-Then I came home to Nepal and decided I wanted to understand the other side — not how machines *move*, but how they *think*. So I pivoted to **Software Engineering** at Coventry University.
+Four years later, I made the hardest decision of that chapter: I left without the degree.
 
-That sounds clean. It wasn't. I was literally pushing OOP Abstraction exercises to GitHub in May 2025. **Nine months later I'm building medical AI that explains its own reasoning** using SHAP and LIME.
+I'm not going to dress that up. I didn't finish. What I'll say is this — walking away from something you've invested four years in, in a foreign country, is one of the most honest decisions a person can make. It means you looked at the situation clearly and chose the harder, truer path over the easier, face-saving one.
 
-The robotics background didn't go away. When I got certified in running AI on **NVIDIA's Jetson Nano** — edge AI on embedded hardware — it felt like my two worlds finally shook hands. I'm not a software person who dabbles in hardware. I'm not a hardware person who writes some code. I'm somewhere in the middle, and I think that's where the most interesting problems live.
+I came back to Nepal and started over.
 
-Now I build things for the places and people I actually know. A healthcare AI for people far from hospitals. An app called **GharBato** — the way home — built with four teammates over 706 commits. A system for tracking cattle in rural Nepal, because the problem existed and I knew how to solve it. Software for a local salon, because someone needed it.
+In 2024, I enrolled at **Coventry University** to study Software Engineering. In May 2025, I was pushing basic OOP exercises to GitHub. By February 2026, I was building a **medical AI system with explainable predictions** — SHAP, LIME, XGBoost — so that a model helping flag disease risk could actually *show its work.*
 
-> *"Learning to make something out from 0 and 1."* — still my bio. still true.
+That's nine months. That's what a clean slate looks like when you work it.
 
----
+The robotics knowledge didn't disappear. It became a foundation most software developers don't have. When I got certified in **AI on NVIDIA's Jetson Nano** — edge intelligence on embedded hardware — my two worlds shook hands for the first time. I understand machines from the wire up. That's not something a bootcamp teaches.
 
-## The journey, in commits
+I build for Nepal. An Android app named *GharBato* — *the way home* — built with 4 teammates over 706 commits. A medical AI so rural patients have access to risk awareness. A cattle management system because the problem was real and I knew how to solve it. A salon app because someone I knew needed it.
 
-```
-2019 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2023
-  🇷🇺 Moscow, Russia                                              🇷🇺→🇳🇵
-  Bauman MSTU                                                   Returns home
-  Mechatronics •  Robotics •  Automation                 with engineering DNA
-  Learning how machines move
-  Surviving COVID abroad
-  Russian winters + Russian math
+> *"Learning to make something out from 0 and 1."*
 
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ now
-  🇳🇵 Kathmandu, Nepal
-  Coventry University • Software Engineering
-  
-  May  2025 → OOP Abstraction (learning the basics. humble start.)
-  Jun  2025 → Polymorphism, Class & Objects (foundations locking in)
-  Jul  2025 → GauManagementSystem (first real problem, solved it)
-  Sep  2025 → Personal portfolio website live
-  Nov  2025 → FirstPracticewithKotlin (new language, why not)
-  Feb  2026 → QuizApplication (full architecture: MVC, SQLite, auth)
-  Feb  2026 → Medical AI Prediction System ◀ (this is where it gets serious)
-              explainable ML • SHAP • LIME • XGBoost • Streamlit
-  
-  📡 NVIDIA Jetson Nano AI Certification
-     (edge AI on embedded hardware — robotics meets intelligence)
-```
+Still my bio. Still true. The 0 is where I've been. The 1 is where I'm going.
 
 ---
 
-## What I'm building right now
+## The journey, in honest timeline
+
+```
+2019 ──────────────────────────────────────────────────────────── 2023
+  🇷🇺  Moscow, Russia                               4 years later →
+  Bauman Moscow State Technical University
+  
+  ✦ Mechatronics, Robotics & Automation Engineering
+  ✦ Survived COVID lockdowns as a foreign student
+  ✦ Learned Russian (the language and the winters)
+  ✦ Understood machines: sensors, actuators, control systems
+  ✦ Made the call to leave. Did not finish the degree.
+  ✦ Came home with four years of hard-earned perspective.
+
+2024 ──────────────────────────────────────────────────────────── now
+  🇳🇵  Kathmandu, Nepal
+  Coventry University — Software Engineering (2024–2027)
+  Starting from scratch. Again.
+
+  May  2025 → OOP Abstraction, Polymorphism       [ foundations ]
+  Jun  2025 → Class & Objects, core Java          [ locking in  ]
+  Jul  2025 → Gau Management System               [ first real build ]
+  Sep  2025 → Personal Portfolio Website          [ showing up  ]
+  Nov  2025 → First Practice with Kotlin          [ new language ]
+  Feb  2026 → Quiz Application (MVC + SQLite)     [ architecture ]
+  Feb  2026 → Medical AI Prediction System ◀      [ serious now  ]
+              explainable ML · SHAP · LIME · XGBoost · Streamlit
+
+  📡  NVIDIA Jetson Nano AI Certification
+      Edge AI on embedded hardware —
+      the exact intersection of robotics past and AI future
+```
+
+---
+
+## What I'm currently doing
 
 ```python
 bishowdip_thapa = {
-  "name"        : "Bishowdip Thapa",
-  "location"    : "Kathmandu, Nepal 🇳🇵",
-  "origin"      : "Nepal → Bauman Moscow → Coventry → home",
-  
-  "currently"   : "Medical AI that doesn't just predict — it explains why",
-  "obsession"   : "Explainable AI. Black-box models helping sick people? Not good enough.",
-  
-  "background"  : ["Mechatronics", "Robotics", "Automation Engineering"],
-  "now"         : ["AI/ML", "Software Engineering", "Android", "Edge AI"],
-  "intersection": "NVIDIA Jetson Nano — where my two worlds meet",
-  
-  "languages_spoken"  : ["Nepali", "English", "Russian", "Python", "Java", "Kotlin"],
-  "tools_of_choice"   : ["XGBoost", "SHAP", "LIME", "Streamlit", "Tkinter", "SQLite"],
-  
-  "philosophy"  : "Build for real people. Explain your AI. Ship it.",
-  "student"     : True,   # always will be
+  "name"         : "Bishowdip Thapa",
+  "location"     : "Kathmandu, Nepal 🇳🇵",
+
+  "path"         : "Nepal → Moscow (4 yrs) → Nepal → wherever next",
+  "dropout_of"   : "Bauman MSTU — and I'd make the same call again",
+  "enrolled_in"  : "Coventry University, Software Engineering (2024–2027)",
+
+  "building"     : "Medical AI that doesn't just predict — it explains why",
+  "cert"         : "NVIDIA Jetson Nano — AI on edge hardware",
+  "superpower"   : "I understand machines from the wire up AND the model down",
+
+  "languages"    : ["Nepali 🇳🇵", "English", "Russian 🇷🇺",
+                    "Python", "Java", "Kotlin"],
+
+  "tools"        : ["XGBoost", "LightGBM", "SHAP", "LIME",
+                    "Streamlit", "Tkinter", "SQLite", "Android/Kotlin"],
+
+  "philosophy"   : "Build for real people. Explain your AI. Own your story.",
+  "student"      : True,  # always
 }
 ```
 
 ---
 
-## Projects — and what was really going on behind them
+## Projects — with what was actually going on
 
 <br>
 
 ### 🧠 [Medical AI Prediction System](https://github.com/bishowdip/medical-ai-prediction-system)
 > **The one that brought both worlds together.**
 >
-> Nepal has one of the lowest doctor-to-patient ratios in Asia. Rural communities often have no access to specialists. I kept thinking: what if a model could flag risk for diabetes, heart disease, or other conditions — and then *show its work?* Not "you might be at risk." But "here's why: your glucose is elevated, your BMI is in this range, your readings follow this pattern." SHAP and LIME make the model accountable. Trust matters more than accuracy.
->
-> My robotics training taught me to think in systems. This is a system — data pipeline, model training, explainability layer, Streamlit interface. Still in development. The best projects take time.
+> Nepal has one of the lowest doctor-to-patient ratios in Asia. Rural communities often have no specialist access. I kept thinking: what if a model could flag risk for diabetes, heart disease, or other conditions — and then *show its reasoning?* Not just "you might be at risk" — but *why*. Elevated glucose. High BMI. These specific readings. SHAP and LIME make the model accountable. My robotics training taught me to think in systems. This is a system — data pipeline, training, explainability, Streamlit UI. Still in development. The best things take time.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -115,9 +129,9 @@ bishowdip_thapa = {
 <br>
 
 ### 📱 [GharBato](https://github.com/ManjilDadaa/GharBato) — *घरबाटो · "The Way Home"*
-> **Five people. One vision. 706 commits.**
+> **Five people. One codebase. 706 commits.**
 >
-> The name says it all. *Ghar* = home. *Bato* = path. We named an Android app after the feeling of finding your way back — and building it felt exactly like that. You don't know real collaboration until you've had a merge conflict at midnight and had to decide whether to fix it or sleep. We fixed it. An Android app built in Kotlin with a team of 5, and one of the experiences that taught me the most about how people build things together.
+> *Ghar* = home. *Bato* = path. We named an Android app after finding your way back — and maybe that resonated more with me than anyone else on the team. Merge conflicts at midnight. Features that broke other features. Decisions made over group chats. 706 commits is not a stat. It's the sound of a team not quitting. One of the best things I've been part of.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -126,20 +140,20 @@ bishowdip_thapa = {
 <br>
 
 ### 🎯 [Quiz Application](https://github.com/bishowdip/QuizApplication)
-> **Where I learned to actually architect software.**
+> **Where I learned to stop making things that "work" and start making things that are *designed.***
 >
-> There's a difference between making something that works and making something that's designed. I built this to understand the second kind — MVC pattern, proper database schema, user auth, session management, leaderboards. Full quiz creation, taking, scoring, grading. The kind of thing you build when you stop thinking "what do I make" and start thinking "how do I make it right."
+> Full desktop quiz platform. MVC architecture, real database schema, user auth, session management, leaderboards, grading. The difference between a project and software is whether you thought about the structure before you wrote the first line. This was the project where that clicked.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing_GUI-007396?style=flat-square&logo=java&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC_Architecture-4A90D9?style=flat-square&logoColor=white)
 
 <br>
 
 ### 💇 [Parlour Management System](https://github.com/bishowdip/Parlour_Management_System)
-> **The one that actually gets used.**
+> **The one that actually gets used every day.**
 >
-> Someone I know runs a small salon. They were keeping everything in their head — appointments, billing, which customer wants what. I built them a desktop app: login system, appointment booking, billing, services, customer queries. It's not glamorous code. But it runs every day. Stars on GitHub can't compete with that.
+> Someone I know runs a small salon. Managing it all in their head — appointments, billing, services, customers. I built them a desktop app. It has login, bookings, billing, service menus, contact queries. It's not glamorous. No one's going to star it. But it runs daily. That matters more to me than any metric on this page.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6B35?style=flat-square&logoColor=white)
@@ -148,9 +162,9 @@ bishowdip_thapa = {
 <br>
 
 ### 🐄 [Gau Management System](https://github.com/bishowdip/GauManagementSystem)
-> **Yes. Cattle management software. I stand by it.**
+> **Yes. Cattle management software. I stand by every line of it.**
 >
-> In Nepal, cattle are economic assets for rural families. Livestock records, health tracking, management — all done on paper or in memory. I saw the problem. I built the solution. No audience. No stars. No tutorial telling me this was the right project to pick. Just: the problem exists, I can solve it, so I will. That's still the only reason you ever need to build something.
+> In Nepal, cattle are real economic assets for rural families. Records are kept on paper or in memory. Health, feeding, breeding cycles — all of it manually tracked. The problem was real. I knew how to solve it. So I did, with no audience and no validation from anyone. That's still my favourite reason to build something.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -159,13 +173,13 @@ bishowdip_thapa = {
 
 ## Two worlds. One stack.
 
-**Hardware DNA (Robotics & Edge AI)**
+**The hardware brain — where it started**
 
-![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Edge AI](https://img.shields.io/badge/Edge_AI-FF6600?style=for-the-badge&logoColor=white)
-![Mechatronics](https://img.shields.io/badge/Mechatronics-2d1b69?style=for-the-badge&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge_AI_Certified-FF6600?style=for-the-badge&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics_&_Mechatronics-2d1b69?style=for-the-badge&logoColor=white)
 
-**Software Brain (AI/ML & Applications)**
+**The software mind — where it's going**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -182,7 +196,7 @@ bishowdip_thapa = {
 ## Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishowdip&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=9d7fe3&icon_color=9d7fe3&text_color=c9d1d9&bg_color=0d0d1a&ring_color=9d7fe3" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bishowdip&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=9d7fe3&icon_color=9d7fe3&text_color=c9d1d9&bg_color=0d0d1a" height="175"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishowdip&layout=compact&hide_border=true&title_color=9d7fe3&text_color=c9d1d9&bg_color=0d0d1a&langs_count=6" height="175"/>
 </p>
 
@@ -192,15 +206,17 @@ bishowdip_thapa = {
 
 ---
 
-## What I believe (the version I'd actually say out loud)
+## What I actually believe
 
-**Explainable AI isn't optional.** If your model affects someone's health, their money, their life — and it can't tell them *why* it decided what it decided — that's not a feature. That's a problem. I use SHAP and LIME because I think AI should be able to show its work.
+**Own your full story — even the uncomfortable parts.** I dropped out of one of Russia's top engineering schools. I'm not hiding that. What I learned there was real. The decision to leave was real. The rebuild is real. A resume that only shows wins is just fiction with good formatting.
 
-**Your background is a lens, not a limitation.** Everyone told me pivoting from robotics to software was a strange move. But understanding how sensors, actuators, and embedded systems work makes me a different kind of developer. When I built the Jetson Nano AI certification project, everything clicked — my hardware past and my software present aren't two chapters. They're the same story.
+**Explainable AI is a responsibility, not a feature.** If a model is touching someone's health decisions and it can't explain why it decided what it decided, that's not AI — it's a coin flip with extra steps. I build models that show their work.
 
-**Small problems deserve serious solutions.** A cattle management system for a rural village and a medical AI platform take the same engineering discipline. Scope doesn't determine whether something deserves to be built well.
+**Your background is a lens, not a limitation.** Going from robotics to software development looks strange on paper. But understanding how embedded systems, sensors, and control loops work gives me a perspective most software developers simply don't have. The Jetson Nano certification is where those two things became one.
 
-**Distance teaches you what home means.** I lived in Moscow for four years. I built an app called *GharBato* — the way home. I keep building things for Nepal. That's not a coincidence.
+**Small problems deserve serious engineering.** A cattle management system for a rural Nepali farmer and a medical AI platform require the exact same discipline. The problem's size doesn't decide whether it deserves to be built well.
+
+**Distance teaches you what home means.** I lived abroad for four years. I came back and named a project *GharBato* — the way home. I keep building things for Nepal. That's not a coincidence. That's what I care about.
 
 ---
 
@@ -213,9 +229,10 @@ bishowdip_thapa = {
 <br>
 
 <p align="center">
-  <sub>If you read this far, you now know more about me than most people do.</sub><br>
-  <sub>Feel free to reach out — about AI, robotics, Nepal, or whatever you're building.</sub><br>
-  <sub>The cow management system is also available for discussion. 🐄</sub>
+  <sub>Nepal 🇳🇵 → Moscow 🇷🇺 → Kathmandu → wherever the next build takes me.</sub><br><br>
+  <sub>If you read this far — you know the real version of this profile.</sub><br>
+  <sub>Reach out about AI, robotics, Nepal, or whatever you're building.</sub><br>
+  <sub>The cow management system is also available for serious academic discussion. 🐄</sub>
 </p>
 
 <p align="center">
