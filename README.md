@@ -1,82 +1,171 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I'm%20Bishowdip%20👋&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=I%20build%20things%20that%20matter%20to%20real%20people&descSize=18&descAlignY=60&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a0533,80:2d1b69,100:0d0d2b&height=280&section=header&text=Bishowdip%20Thapa&fontSize=55&fontColor=e2d9f3&fontAlignY=38&desc=Robotics%20Engineer%20→%20AI%20Developer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descSize=18&descAlignY=58&descColor=9d7fe3&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Teaching+machines+to+predict+disease+%F0%9F%A7%A0;Building+apps+for+my+community+back+home+%F0%9F%8F%A1;Yes%2C+I+once+wrote+code+to+manage+cows+%F0%9F%90%84;706+commits+deep+with+my+team+on+GharBato;Still+learning.+Always+will+be." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1500&color=9D7FE3&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Studied+robotics+in+Russia.+Now+building+AI+for+Nepal.;From+learning+how+machines+move+%E2%86%92+how+they+think.;%22Learning+to+make+something+out+from+0+and+1%22;Bauman+MSTU+%E2%86%92+Coventry+%7C+Moscow+%E2%86%92+Kathmandu;Edge+AI+%7C+Explainable+ML+%7C+Building+for+the+real+world." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bishowdip-thapa-50392833a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bishodip123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/bishowdip/Bishowdipthapa">
+    <img src="https://img.shields.io/badge/Portfolio-9d7fe3?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bishowdip&label=Profile+Views&color=9d7fe3&style=for-the-badge" />
 </p>
 
 ---
 
-## The honest version of who I am
+## The story, honestly told
 
-I'm a developer from Nepal. I don't have a fancy one-liner for that — I'm just someone who learned to code and realized pretty quickly that the most interesting problems aren't always on a Silicon Valley whiteboard. Sometimes they're in a local salon that's still tracking appointments on paper. Sometimes they're in a village where no one has easy access to a doctor.
+Most developers pick a lane early and stay in it. I didn't.
 
-So I build things. Desktop apps, Android apps, AI models, management systems. Whatever the problem needs.
+I spent four years in **Moscow** — not the tourist parts — studying at **Bauman Moscow State Technical University**, one of Russia's most rigorous engineering universities. I was learning how robots move, how sensors think, how hardware speaks. I was there through COVID lockdowns as a foreign student from Nepal. I learned Russian. I survived Russian winters and Russian calculus. I came out the other side with a degree in **Mechatronics, Robotics and Automation Engineering**.
 
-Right now, my most ambitious project is a **medical AI system** that doesn't just predict whether you might have diabetes or heart disease — it *explains* why it thinks that. Because a black-box AI telling a patient "you might be sick" without any reasoning? That's not good enough for me. I used SHAP and LIME to make sure the model shows its work. Trust matters more than accuracy.
+Then I came home to Nepal and decided I wanted to understand the other side — not how machines *move*, but how they *think*. So I pivoted to **Software Engineering** at Coventry University.
 
-Before that, I spent months collaborating with four other people on **GharBato** — an Android app. 706 commits between us. There were bugs that made no sense, merge conflicts at midnight, moments where nothing worked and we had to start a feature from scratch. I'd do it again.
+That sounds clean. It wasn't. I was literally pushing OOP Abstraction exercises to GitHub in May 2025. **Nine months later I'm building medical AI that explains its own reasoning** using SHAP and LIME.
 
-And yes. One of my repos is a cattle management system. My first instinct when I see a problem is to build something. That instinct doesn't turn off just because the problem involves cows. 🐄
+The robotics background didn't go away. When I got certified in running AI on **NVIDIA's Jetson Nano** — edge AI on embedded hardware — it felt like my two worlds finally shook hands. I'm not a software person who dabbles in hardware. I'm not a hardware person who writes some code. I'm somewhere in the middle, and I think that's where the most interesting problems live.
+
+Now I build things for the places and people I actually know. A healthcare AI for people far from hospitals. An app called **GharBato** — the way home — built with four teammates over 706 commits. A system for tracking cattle in rural Nepal, because the problem existed and I knew how to solve it. Software for a local salon, because someone needed it.
+
+> *"Learning to make something out from 0 and 1."* — still my bio. still true.
 
 ---
 
-## What I'm currently doing
+## The journey, in commits
+
+```
+2019 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2023
+  🇷🇺 Moscow, Russia                                              🇷🇺→🇳🇵
+  Bauman MSTU                                                   Returns home
+  Mechatronics •  Robotics •  Automation                 with engineering DNA
+  Learning how machines move
+  Surviving COVID abroad
+  Russian winters + Russian math
+
+2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ now
+  🇳🇵 Kathmandu, Nepal
+  Coventry University • Software Engineering
+  
+  May  2025 → OOP Abstraction (learning the basics. humble start.)
+  Jun  2025 → Polymorphism, Class & Objects (foundations locking in)
+  Jul  2025 → GauManagementSystem (first real problem, solved it)
+  Sep  2025 → Personal portfolio website live
+  Nov  2025 → FirstPracticewithKotlin (new language, why not)
+  Feb  2026 → QuizApplication (full architecture: MVC, SQLite, auth)
+  Feb  2026 → Medical AI Prediction System ◀ (this is where it gets serious)
+              explainable ML • SHAP • LIME • XGBoost • Streamlit
+  
+  📡 NVIDIA Jetson Nano AI Certification
+     (edge AI on embedded hardware — robotics meets intelligence)
+```
+
+---
+
+## What I'm building right now
 
 ```python
-bishowdip = {
-    "building":       "Medical AI that explains itself — not just predicts",
-    "learning":       "How to make ML models people can actually trust",
-    "thinking_about": "Why we build software and who it's really for",
-    "side_quests":    ["Kotlin", "Android dev", "making my coffee last longer"],
-    "location":       "Nepal 🇳🇵",
-    "student":        True,   # still in it. the grind is real.
+bishowdip_thapa = {
+  "name"        : "Bishowdip Thapa",
+  "location"    : "Kathmandu, Nepal 🇳🇵",
+  "origin"      : "Nepal → Bauman Moscow → Coventry → home",
+  
+  "currently"   : "Medical AI that doesn't just predict — it explains why",
+  "obsession"   : "Explainable AI. Black-box models helping sick people? Not good enough.",
+  
+  "background"  : ["Mechatronics", "Robotics", "Automation Engineering"],
+  "now"         : ["AI/ML", "Software Engineering", "Android", "Edge AI"],
+  "intersection": "NVIDIA Jetson Nano — where my two worlds meet",
+  
+  "languages_spoken"  : ["Nepali", "English", "Russian", "Python", "Java", "Kotlin"],
+  "tools_of_choice"   : ["XGBoost", "SHAP", "LIME", "Streamlit", "Tkinter", "SQLite"],
+  
+  "philosophy"  : "Build for real people. Explain your AI. Ship it.",
+  "student"     : True,   # always will be
 }
 ```
 
 ---
 
-## Things I've built (and what was actually going on)
+## Projects — and what was really going on behind them
 
 <br>
 
-**🧠 [Medical AI Prediction System](https://github.com/bishowdip/medical-ai-prediction-system)**
-> I kept thinking: what if someone in a rural area needed to know if they were at risk for diabetes or heart disease, but couldn't easily see a specialist? An AI that gives a prediction *and* explains what's driving it — elevated glucose, high BMI, irregular readings — that's something real. Still in development. The explainability part (SHAP/LIME) took longer than expected. Worth it.
+### 🧠 [Medical AI Prediction System](https://github.com/bishowdip/medical-ai-prediction-system)
+> **The one that brought both worlds together.**
+>
+> Nepal has one of the lowest doctor-to-patient ratios in Asia. Rural communities often have no access to specialists. I kept thinking: what if a model could flag risk for diabetes, heart disease, or other conditions — and then *show its work?* Not "you might be at risk." But "here's why: your glucose is elevated, your BMI is in this range, your readings follow this pattern." SHAP and LIME make the model accountable. Trust matters more than accuracy.
+>
+> My robotics training taught me to think in systems. This is a system — data pipeline, model training, explainability layer, Streamlit interface. Still in development. The best projects take time.
 
-`Python` `XGBoost` `LightGBM` `SHAP` `LIME` `Streamlit`
-
-<br>
-
-**📱 [GharBato](https://github.com/ManjilDadaa/GharBato) — *"The Way Home"***
-> Five people. One codebase. 706 commits. The name means "the path home" in Nepali — and in a lot of ways, building this with people rather than alone felt like that. You figure out how to communicate, how to not break each other's code, how to keep going when it's messy. An Android app, and a lesson in what real collaboration looks like.
-
-`Kotlin` `Android` `Gradle`
-
-<br>
-
-**🎯 [Quiz Application](https://github.com/bishowdip/QuizApplication)**
-> A full desktop quiz platform — create quizzes, take them, track scores, see a leaderboard. Built this to actually understand how to architect something properly: MVC pattern, real database schema, user authentication, session management. Not just "make a button do a thing." Design it so it holds together.
-
-`Java` `Swing` `SQLite` `MVC Architecture`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-9d7fe3?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 <br>
 
-**💇 [Parlour Management System](https://github.com/bishowdip/Parlour_Management_System)**
-> I know someone who runs a small salon and was managing everything in their head — appointments, billing, customers. I built them a desktop app. It has login, appointment booking, billing, a services menu, contact queries. It's not glamorous software. But it gets used. That means more to me than stars on GitHub.
+### 📱 [GharBato](https://github.com/ManjilDadaa/GharBato) — *घरबाटो · "The Way Home"*
+> **Five people. One vision. 706 commits.**
+>
+> The name says it all. *Ghar* = home. *Bato* = path. We named an Android app after the feeling of finding your way back — and building it felt exactly like that. You don't know real collaboration until you've had a merge conflict at midnight and had to decide whether to fix it or sleep. We fixed it. An Android app built in Kotlin with a team of 5, and one of the experiences that taught me the most about how people build things together.
 
-`Python` `Tkinter` `SQLite`
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
 <br>
 
-**🐄 [Gau Management System](https://github.com/bishowdip/GauManagementSystem)**
-> Yes. Cattle management software. I'm not going to pretend this is the coolest thing in my repo list. But here's what I'll say: the moment you see a real problem that code can solve, you just build it. No audience. No likes. Just: *this needs to exist, so I'll make it.* That's still the best reason to code.
+### 🎯 [Quiz Application](https://github.com/bishowdip/QuizApplication)
+> **Where I learned to actually architect software.**
+>
+> There's a difference between making something that works and making something that's designed. I built this to understand the second kind — MVC pattern, proper database schema, user auth, session management, leaderboards. Full quiz creation, taking, scoring, grading. The kind of thing you build when you stop thinking "what do I make" and start thinking "how do I make it right."
 
-`Python` `SQLite`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing_GUI-007396?style=flat-square&logo=java&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<br>
+
+### 💇 [Parlour Management System](https://github.com/bishowdip/Parlour_Management_System)
+> **The one that actually gets used.**
+>
+> Someone I know runs a small salon. They were keeping everything in their head — appointments, billing, which customer wants what. I built them a desktop app: login system, appointment booking, billing, services, customer queries. It's not glamorous code. But it runs every day. Stars on GitHub can't compete with that.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6B35?style=flat-square&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<br>
+
+### 🐄 [Gau Management System](https://github.com/bishowdip/GauManagementSystem)
+> **Yes. Cattle management software. I stand by it.**
+>
+> In Nepal, cattle are economic assets for rural families. Livestock records, health tracking, management — all done on paper or in memory. I saw the problem. I built the solution. No audience. No stars. No tutorial telling me this was the right project to pick. Just: the problem exists, I can solve it, so I will. That's still the only reason you ever need to build something.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-## Tools I reach for
+## Two worlds. One stack.
+
+**Hardware DNA (Robotics & Edge AI)**
+
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge_AI-FF6600?style=for-the-badge&logoColor=white)
+![Mechatronics](https://img.shields.io/badge/Mechatronics-2d1b69?style=for-the-badge&logoColor=white)
+
+**Software Brain (AI/ML & Applications)**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -86,45 +175,49 @@ bishowdip = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Numbers (for the curious)
+## Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishowdip&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishowdip&layout=compact&theme=midnight-purple&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117&langs_count=6" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bishowdip&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=9d7fe3&icon_color=9d7fe3&text_color=c9d1d9&bg_color=0d0d1a&ring_color=9d7fe3" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishowdip&layout=compact&hide_border=true&title_color=9d7fe3&text_color=c9d1d9&bg_color=0d0d1a&langs_count=6" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishowdip&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishowdip&hide_border=true&background=0d0d1a&ring=9d7fe3&fire=c084fc&currStreakLabel=9d7fe3&sideLabels=9d7fe3&dates=8b949e&stroke=9d7fe3" />
 </p>
 
 ---
 
-## A few things I actually believe
+## What I believe (the version I'd actually say out loud)
 
-> **Technology should explain itself.** An AI that just says "yes" or "no" without showing its reasoning is a tool I don't fully trust — and wouldn't ask others to trust either.
+**Explainable AI isn't optional.** If your model affects someone's health, their money, their life — and it can't tell them *why* it decided what it decided — that's not a feature. That's a problem. I use SHAP and LIME because I think AI should be able to show its work.
 
-> **The best software is often invisible.** If the person using it doesn't have to think about it, you did your job.
+**Your background is a lens, not a limitation.** Everyone told me pivoting from robotics to software was a strange move. But understanding how sensors, actuators, and embedded systems work makes me a different kind of developer. When I built the Jetson Nano AI certification project, everything clicked — my hardware past and my software present aren't two chapters. They're the same story.
 
-> **Building something no one will see is still worth building.** Some of my best learning came from projects that nobody starred. The cow management system taught me more about real requirements gathering than any tutorial.
+**Small problems deserve serious solutions.** A cattle management system for a rural village and a medical AI platform take the same engineering discipline. Scope doesn't determine whether something deserves to be built well.
 
-> **Your background is a feature, not a bug.** Being from Nepal, building for Nepali communities, naming projects in Nepali — that's a perspective most codebases don't have. I'm not trying to code like I'm from somewhere else.
+**Distance teaches you what home means.** I lived in Moscow for four years. I built an app called *GharBato* — the way home. I keep building things for Nepal. That's not a coincidence.
 
 ---
 
+<br>
+
 <p align="center">
-  <i>If you scrolled this far — thank you for actually reading it.</i><br>
-  <i>Feel free to reach out. I don't bite. The cow might.</i> 🐄
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learning%20to%20make%20something%20out%20from%200%20and%201&author=Bishowdip%20Thapa" />
+</p>
+
+<br>
+
+<p align="center">
+  <sub>If you read this far, you now know more about me than most people do.</sub><br>
+  <sub>Feel free to reach out — about AI, robotics, Nepal, or whatever you're building.</sub><br>
+  <sub>The cow management system is also available for discussion. 🐄</sub>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bishowdip&label=people+who+visited&color=7c3aed&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:2d1b69,100:1a0533&height=120&section=footer&desc=Nepal%20%F0%9F%87%B3%F0%9F%87%B5%20%7C%20Moscow%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20Building%20what%20matters&descSize=14&descAlignY=65&descColor=9d7fe3" />
 </p>
