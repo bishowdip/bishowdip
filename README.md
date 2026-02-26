@@ -124,11 +124,11 @@ motto       : "Learning to make something out from 0 and 1."
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bishowdip&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&stroke=58a6ff"/>
+<img src="https://streak-stats.demolab.com?user=bishowdip&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&stroke=58a6ff"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishowdip&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=0d1f3c&hide_border=true&custom_title=Bishowdip's%20Contribution%20Graph%20🚀" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishowdip&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=0d1f3c&hide_border=true&custom_title=Bishowdip's+Contribution+Graph" width="95%"/>
 
 </div>
 
