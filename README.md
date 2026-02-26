@@ -156,8 +156,9 @@ motto       : "Learning to make something out from 0 and 1."
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/bishowdip-thapa-50392833a/) &nbsp;&nbsp;&nbsp;
-[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/bishowdip)
+<a href="https://www.linkedin.com/in/bishowdip-thapa-50392833a/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="28" height="28"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/bishowdip"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28" height="28"/></a>
 
 <br/>
 
